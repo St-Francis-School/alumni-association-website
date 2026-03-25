@@ -1,0 +1,71 @@
+  
+    #headerbox1 {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      background-color: rgb(93, 93, 240);
+      padding: 10px;
+      color: white;
+       background-color: #cf2e2e;
+    }
+
+    #headerbox2 {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 10px;
+     
+    }
+
+    #headerbox3 {
+      display: flex;
+      gap: 15px;
+      font-size: 18px;
+    }
+   .headerbox4{
+    display:flex;
+   }
+    button {
+      background-color: orangered;
+      color: white;
+      padding: 6px 10px;
+      font-size: 14px;
+      border: none;
+      cursor: pointer;
+    }
+
+    p {
+      margin: 0;
+      font-size: 16px;
+    }
+
+    i {
+      cursor: pointer;
+    }
+    .header-content{
+      display:flex;
+      background-color: rgb(28, 156, 77);
+    
+
+    }
+    .school-name{
+    
+      font-size:60px;
+      color:black;
+      margin-left:200px;
+     
+    }
+    #address{
+      font-size: 25px;
+      color: white;
+    }
+    .logo{
+      color: black;
+      height: 200px;
+      width: 200px;
+     
+    }
+    #pin{
+     margin-left: 200px;
+    }
