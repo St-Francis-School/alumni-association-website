@@ -56,10 +56,10 @@ button {
   flex: 4;
   }
 
-.links a{
+.links a, .header-content a{
   color: antiquewhite;
-  padding-right: 15px;
-  font-weight: 700;
+  padding-right: 10px;
+  font-weight: 500;
   text-decoration: none;
   }
 
