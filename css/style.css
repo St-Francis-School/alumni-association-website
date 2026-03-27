@@ -1,4 +1,51 @@
+.header-content{
+  display:flex;
+  background-color: rgb(28, 156, 77);
+  }
+    
+.main-section{
+      height:500px;
+    }
+
+    .bottom-part{
+      display: flex;
+      background-color: rgb(23,44,65);
+      padding: 15px; 
+    }
+
+  .links a{
+    color:rgba(253,254,250);
+  margin-top:20px;
+  margin-left:40px;
+  font-weight:bold;
+  text-decoration:none; 
+  font-size:20px;
+  }
+
+  .text{
+  color:rgba(255, 255, 255, 0.562);
+  line-height:1.8;
+  margin-left: 40px;
+  margin-top: 20px;
+  font-size:15px;
+  }
+
+  .iconss{
+    display: flex;
+    flex-direction: row;
+    margin-left:170px;
+  margin-top:-20px;
+  }
+
+  .logo{
+    margin-right:30px;
+    margin-bottom: 20px;
+  }
   
+  .contact{
+    color:rgba(255, 255, 255, 0.562);
+  }
+
     #headerbox1 {
       display: flex;
       justify-content: space-between;
@@ -43,12 +90,7 @@
     i {
       cursor: pointer;
     }
-    .header-content{
-      display:flex;
-      background-color: rgb(28, 156, 77);
-    
 
-    }
     .school-name{
     
       font-size:60px;
